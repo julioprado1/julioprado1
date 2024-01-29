@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julio_prado03)
 
 ![Júlio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioprado1&show_icons=true&theme=dracula&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioprado1&layout=compact&langs_count=6&theme=dracula"/>
 
 ## Tecnologias que eu uso no meu dia
 
