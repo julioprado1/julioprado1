@@ -13,6 +13,18 @@
   <img align="center" alt="Dart" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">      
   <img align="center" alt="Dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">     
 </div>
+
+<div>
+
+Contatos
+
+ Email: julioprado1604@gmail.com 
+ 
+ Instagram : julio_prado03
+ 
+ Discord: 318241254637043714
+ 
+</div>
  
 <br>
  
