@@ -4,8 +4,6 @@
   <a href = "mailto:julioprado1604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-![Júlio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioprado1&show_icons=true&theme=dracula&count_private=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioprado1&layout=compact&langs_count=6&theme=dracula"/>
 
 ## Tecnologias que eu uso no meu dia
